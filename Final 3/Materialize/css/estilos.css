@@ -1,0 +1,25 @@
+.fondo{
+	background-image: url(../img/backgroud.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+}
+.fondo1{
+
+	background-color:rgb(144,250,248,0.8);
+	padding-top: 9px;
+	
+}
+.fondo2{
+	background-color: #134BD9;
+	height: 6em;
+}
+.fondo3{
+	background: #B6B8FF;
+	height: 6em;
+}
+.fondo1 img{
+	min-width: 320px;
+}
+.bloque-chat{
+	background-color: white;
+}

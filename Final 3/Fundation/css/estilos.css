@@ -1,0 +1,16 @@
+body{
+	background-image:url(../img/fondo.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+.imagen{
+	height: 80px;
+}
+.cabecera{
+	background-color: rgb(247,249,109);
+}
+ .cuerpo{
+ 	background-color: rgb(247,249,109,0.8);
+ }
